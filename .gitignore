@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 physik521-10-blx.bib
 physik521-10.aux
 physik521-10.bbl
@@ -79,3 +80,11 @@ physik521-05.bbl
 physik521-05.blg
 physik521-05.run.xml
 >>>>>>> 05/master
+=======
+physik521-06.fdb_latexmk
+physik521-06.fls
+physik521-06.pdf
+physik521-06.aux
+physik521-06.log
+physik521-06.out
+>>>>>>> 06/master
