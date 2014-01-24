@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 physik521-10-blx.bib
 physik521-10.aux
 physik521-10.bbl
@@ -110,3 +111,16 @@ article.out
 article.pdf
 article.run.xml
 >>>>>>> 08/master
+=======
+physik521-09-blx.bib
+physik521-09.aux
+physik521-09.bbl
+physik521-09.blg
+physik521-09.fdb_latexmk
+physik521-09.fls
+physik521-09.log
+physik521-09.out
+physik521-09.pdf
+physik521-09.run.xml
+1.xoj.pdf
+>>>>>>> 09/master
